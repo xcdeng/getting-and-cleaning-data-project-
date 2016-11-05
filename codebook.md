@@ -92,7 +92,7 @@ Measurements
 * `fBodyBodyGyroJerkMagStd`
 * `fBodyBodyGyroJerkMagMeanFreq`
 
-Activity column
+Activity
 -----------------------------------------------------
 
  1. WALKING
