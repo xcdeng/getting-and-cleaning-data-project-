@@ -3,7 +3,7 @@ Getting and Cleaning Data: Course Project
 
 Introduction
 ------------
-This is the Coursera project from 'Getting and Clearning Data'. This repository includes all the required files. 
+This is the Coursera project 'Getting and Clearning Data'. This repository includes all the required files. 
 
 
 About R scripts
