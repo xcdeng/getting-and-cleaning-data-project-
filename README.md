@@ -21,4 +21,4 @@ I created a script called R_project.R which:
 
 About the Code Book
 -------------------
-The CodeBook.md file explains  all the variables
+The codebook.md file explains  all the variables
