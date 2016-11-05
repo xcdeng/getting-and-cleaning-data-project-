@@ -1,11 +1,24 @@
-This R file 'run_analysis.R'does the following:
+Getting and Cleaning Data: Course Project
+=========================================
 
-1. set the default directory to the directory with the data
-2. identify columns with mean and std only
-3. use descriptive activity names to name the activities 
-4. read test data and train data
-5. add in activity labels and features 
-6. combine data
-7. aggregation (mean) based on subject and activity
+Introduction
+------------
+This is the Coursera project from 'Getting and Clearning Data'. This repository includes all the required files. 
 
-The end result shows in 'tidy.txt'
+
+About R scripts
+-------------------------------------
+I created a script called R_project.R which:
+
+ 1. set the default directory to the directory with the data
+ 2. identify columns with mean and std only
+ 3. use descriptive activity names to name the activities 
+ 4. read test data and train data
+ 5. add in activity labels and features 
+ 6. combine data
+ 7. aggregation (mean) based on subject and activity
+
+
+About the Code Book
+-------------------
+The CodeBook.md file explains  all the variables
