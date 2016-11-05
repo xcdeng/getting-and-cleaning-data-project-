@@ -22,3 +22,8 @@ I created a script called R_project.R which:
 About the Code Book
 -------------------
 The codebook.md file explains  all the variables
+
+About the tidy.txt
+------------------
+
+The tidy.txt file includes the final cleaned data as required
